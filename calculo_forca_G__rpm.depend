@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436301709 source:c:\users\fumachi\calculo_forca_g__rpm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
